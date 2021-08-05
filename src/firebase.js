@@ -2,12 +2,12 @@ import * as firebase from 'firebase';
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBv1rjfTnJ_nUUztRYqswT8kLB9wyBb6zQ",
-  authDomain: "smartshopmern.firebaseapp.com",
-  projectId: "smartshopmern",
-  storageBucket: "smartshopmern.appspot.com",
-  messagingSenderId: "1023041949745",
-  appId: "1:1023041949745:web:2d9488cef6435fe7f6c510"
+    apiKey: "AIzaSyD6A7DQMjegvCdFs4PUEQ9J9l_TuyRxy3U",
+    authDomain: "smart-shopsbd.firebaseapp.com",
+    projectId: "smart-shopsbd",
+    storageBucket: "smart-shopsbd.appspot.com",
+    messagingSenderId: "880803285241",
+    appId: "1:880803285241:web:c7c8854bdf220b06153a28"
 };
         // Initialize Firebase
         firebase.initializeApp(firebaseConfig);
